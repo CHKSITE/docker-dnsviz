@@ -1,2 +1,2 @@
-# docker-dnsvis
+# docker-dnsviz
 Dockerise https://github.com/dnsviz/dnsviz
